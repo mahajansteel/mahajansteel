@@ -1,3 +1,12 @@
+.body{
+	background-image: url("https://th.bing.com/th/id/R.57a3c348db90768f8ced5bab237cf219?rik=UQdyiVyIjeSxaQ&riu=http%3a%2f%2f24.media.tumblr.com%2ftumblr_me428bxrBb1r4zr2vo1_r3_500.gif&ehk=Ad7%2fv2MwhUKrlle5TfMjkoTHWk7P435SfAFCJh39t6g%3d&risl=&pid=ImgRaw&r=0");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+
+
+
 .formcontact{
 /*	width: 60%;*/
 	/*margin-left: auto;
@@ -26,16 +35,17 @@
 	background-color: yellow;
 }
 .formcontact h1{
-	text-decoration: underline blue;
+	text-decoration: underline white;
 }
 .infocontact h1{
-	text-decoration: underline blue;
+	text-decoration: underline white;
 }
 .infocontact{
 /*	padding-left: ;*/
 }
 .navbar{
-	background-color: #ffb142;
+	background-color: #2f3a55;
+	color: white;
 	padding-top:10px ;
 	padding-bottom:10px;
 	text-align: right;
@@ -44,8 +54,8 @@
 .navbar a{
 	text-decoration: none;
 	padding-left: 5px;
-	
-	color: black;
+/*	padding-right: 5px;*/
+	color: white;
 }
 .navbar h1{
 	text-align: left;
@@ -60,7 +70,7 @@
   text-decoration: none;
 /*  background-color: #007bff;*/
 /*  color: white;*/
-  padding-left:5px;
+  padding-left: 5px;
   border-radius: 5px;
 /*  display: inline-block;*/
 }
@@ -99,7 +109,7 @@
 	flex-wrap: wrap;
 }
 .container div{
-	background-color: whitesmoke;
+	background-color: #2f3a55;
 /*	width: 20%;*/
 	padding-left: 20px;
 	padding-right: 20px;
@@ -108,12 +118,20 @@
 	box-shadow: 0 2px 6px rgba(0,0,0,0.08); 
   transition: transform 0.18s ease, box-shadow 0.18s ease;
   cursor: pointer;
+  color: white;
+
 }
+
+
+
+
+
 .container div:hover {
 	background-color: floralwhite;
   transform: translateY(-6px);                 
   box-shadow: 0 10px 25px rgba(0,0,0,0.18);
-  background-color: #ffb142;  
+  background-color: #07203f;
+  color: white;  
     
 }
 .container div:active {
@@ -155,23 +173,24 @@
 	text-decoration: underline;
 }
 .downbar{
-	background-color: darkblue;
+	background-color: #2f3a55;
 	color: white;
 
 }
 .container .homeproduct{
-	background-color: whitesmoke;
+	background-color: #2f3a55;
+	color: white;
 	margin-top: 10px;
 }
 .container .homeproduct a{
 	text-decoration: none;
 	text-align: center;
-	color: black;
+	color: white;
 
 }
 .container .homeproduct a:hover{
 	text-decoration: underline;
-	color: black;
+	color: white;
 
 }
 
@@ -179,7 +198,6 @@
 	margin-left: auto;
 	margin-right: auto;
 }
-
 
 
 
