@@ -2,28 +2,25 @@ function toggleMenu() {
   document.getElementById("menu").classList.toggle("show");
 }
 function openWebsite() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/ceiling-fan-box.html"); 
+      window.open("form.html"); 
     }
 function openWebsite2() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/ceiling-fan-clamp.html"); 
+      window.open("form.html"); 
     }
 function openWebsite3() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/ceiling-fan-downrod.html"); 
+      window.open("form.html"); 
     }
 function openWebsite4() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/mcb-box.html"); 
+      window.open("form.html"); 
     }
 function openWebsite5() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/electrical-box.html"); 
+      window.open("form.html"); 
     }
 function openWebsite6() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/conduit-pipe.html"); 
+      window.open("form.html"); 
     }
 function openWebsite7() {
-      window.open("https://www.indiamart.com/mahajansteelenterprises/ms-conduit-pipes.html"); 
+      window.open("form.html"); 
     }
   
-
-
-
 
