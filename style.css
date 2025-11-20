@@ -197,7 +197,55 @@
 .Brochtur{
 	margin-left: auto;
 	margin-right: auto;
+	margin-bottom: 30px;
+	margin-top: 30px;
+/*	padding-top: 30px;*/
+/*	padding-bottom: 30px;*/
+
+}
+.Brochtur a{
+	color: white;
 }
 
+.buynow input{
+	border-radius: 10px;
+	height: 40px;
+	width: 270px;
+/*	border-style: none;*/
+	background-color: ghostwhite;
 
+}
+.buynow textarea{
+	border-radius: 10px;
+	height: 80px;
+	width: 270px;
+/*	border-style: none;*/
+	background-color: ghostwhite;
+}
+.buynow button{
+	border-radius: 10px;
+	height: 40px;
+	width: 120px;
+	border-style: none;
+	background-color: yellow;
+	color: black;
+}
+.buynow{
+	background-color: #2f3a55;
+	padding-top: 50px;
+	padding-bottom: 50px;
+	display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 150px;
+
+
+}
+/*.body2{
+	background-color:#2f3a55 ;
+}
+*/
+.buynow h2{
+	color: white;
+}
 
