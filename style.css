@@ -46,7 +46,18 @@ body{
 .infocontact{
 /*	padding-left: ;*/
 }
+.navbar2{
+	background-color: #2f3a55;
+	color: white;
+	padding-top:10px ;
+	padding-bottom:10px;
+}
 
+.navbar2 a{
+	text-decoration: none;
+	color: white;
+
+}
 .navbar{
 	background-color: #2f3a55;
 	color: white;
