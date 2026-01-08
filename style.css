@@ -51,11 +51,14 @@ body{
 	color: white;
 	padding-top:10px ;
 	padding-bottom:10px;
+	font-family: 'Poppins', sans-serif;
+
 }
 
 .navbar2 a{
 	text-decoration: none;
 	color: white;
+	padding-left: 10px;
 
 }
 .navbar{
