@@ -1,13 +1,13 @@
-body{
+.body{
 	background-image: url("https://th.bing.com/th/id/R.57a3c348db90768f8ced5bab237cf219?rik=UQdyiVyIjeSxaQ&riu=http%3a%2f%2f24.media.tumblr.com%2ftumblr_me428bxrBb1r4zr2vo1_r3_500.gif&ehk=Ad7%2fv2MwhUKrlle5TfMjkoTHWk7P435SfAFCJh39t6g%3d&risl=&pid=ImgRaw&r=0");
 	background-repeat: no-repeat;
 	background-size: cover;
 	flex-wrap: wrap;
 }
 
-.body{
+/* .body{
 	flex-wrap: wrap;
-}
+} */
 
 
 .formcontact{
@@ -286,4 +286,5 @@ body{
 .buynow h2{
 	color: white;
 }
+
 
