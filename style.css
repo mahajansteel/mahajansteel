@@ -157,7 +157,8 @@
 }
 .container div{
 	background-color: #2f3a55;
-
+	margin-top: 10px;
+	margin-bottom: 10px;
 	padding-left: 0px;
 	padding-right: 0px;
 
@@ -303,4 +304,5 @@
 .buynow h2{
 	color: white;
 }
+
 
